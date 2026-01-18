@@ -1,2 +1,2 @@
-# prepareEasy
-prepareEasy
+# Sample documents
+Sample documents
